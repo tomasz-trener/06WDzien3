@@ -16,7 +16,9 @@ namespace P12ZadaniePogoda
                 Console.WriteLine("Podaj miasto");
                 string miasto = Console.ReadLine();
 
-                string url = $"https://www.google.com/search?q=pogoda+{miasto}";
+                //  string url = $"https://www.google.com/search?q=pogoda+{miasto}";
+                string url = "https://www.google.com/search?q=pogoda+"+miasto;
+                
                 char znak = '°';
 
                 string dane = new WebClient().DownloadString(url);
