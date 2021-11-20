@@ -1,0 +1,74 @@
+Kilka tygodni temu Europejskie Centra Kontroli i Prewencji Chorób (ECDC) po cichu utworzyły stronę internetową, na której można śledzić i porównywać prognozy zakażeń i zgonów z powodu COVID we wszystkich krajach Europy.
+NAJCZĘŚCIEJ CZYTANE
+Zaszczepiłam się od ręki, chociaż mój PESEL zaczyna się od 7. "Nie chcemy zmarnować ani jednej dawki"
+ POZNAŃ
+Zaszczepiłam się od ręki, chociaż mój PESEL zaczyna się od 7. "Nie chcemy zmarnować ani jednej dawki"
+Kasia Sokołowska: "Moda nie jest jednorazowa"
+MATERIAŁ PROMOCYJNY PARTNERA
+Kasia Sokołowska: "Moda nie jest jednorazowa"
+Przeciętny człowiek codziennie przyjmuje około 5 gramów plastiku. "To tak, jakbyśmy raz w tygodniu zjadali kartę płatniczą"Przeciętny człowiek codziennie przyjmuje około 5 gramów plastiku. "To tak, jakbyśmy raz w tygodniu zjadali kartę płatniczą"
+"Reformy" PiS spowolniły pracę sądów zamiast ją przyspieszyć. Resort Ziobry wreszcie ujawnił statystyki"Reformy" PiS spowolniły pracę sądów zamiast ją przyspieszyć. Resort Ziobry wreszcie ujawnił statystyki
+Duże zmiany w przyznawaniu renty. Przedłużanie rent bez badań
+ PORADNIK
+Duże zmiany w przyznawaniu renty. Przedłużanie rent bez badań
+To nie jest kraj dla chorych ludzi. Masz choroby współistniejące? Spadasz na sam koniec kolejki szczepień
+ KRAKÓW
+To nie jest kraj dla chorych ludzi. Masz choroby współistniejące? Spadasz na sam koniec kolejki szczepień
+REKLAMA
+
+38
+epidemia koronawirusa, koronawirus, COVID-19,Periscope
+Od początku pandemii mnóstwo grup naukowców zajmuje się tworzeniem matematycznych modeli, które starają się przewidzieć liczbę zakażeń i zgonów z powodu COVID-19.
+
+Na tych prognozach rządy wielu państw opierają decyzje o wprowadzeniu lub poluzowaniu obostrzeń.
+
+Pandemia koronawirusa
+Czytaj także:
+Prof. Kucharski: Epidemię napędzają superzakaziciele
+Ile jednak są one warte? Komu można wierzyć, a kto się przeważnie myli? Odpowiedź jest często kwestią życia i śmierci, bo decyzje dzisiaj podejmowane przez rządy wpływają na to, co stanie się za kilka tygodni.
+
+W rozstrzyganiu wątpliwości może pomóc europejskie centrum prognoz COVID-19 (European Covid-19 Forecast Hub) - wspólny projekt Centrum Matematycznego Modelowania Chorób Zakaźnych w Londyńskiej Szkole Higieny i Chorób Tropikalnych oraz Europejskich Centrów Prewencji i Kontroli Chorób (ECDC).
+
+REKLAMA
+
+Centrum zachęca zespoły, które zajmują się przewidywaniem rozwoju epidemii w Europie, do przesyłania wyników swoich analiz i prognoz. Dotyczą one liczby spodziewanych nowych zakażeń oraz zgonów w kolejnych czterech tygodniach.
+
+Co tydzień te prognozy można więc porównać z rzeczywistością. Na podstawie nadesłanych przewidywań powstaje też prognoza uśredniona (EuroCOVIDhub-ensemble), która oddaje trend wszystkich analiz.
+
+Strona jest otwarta dla wszystkich, wyniki są podawane w formie standaryzowanej, tak aby można było je łatwo porównywać.
+
+Prognozy rozwoju COVID-19 w Polsce
+Dla naszego kraju prognozy na najbliższe tygodnie nie są optymistyczne.
+
+Z 15 modeli zdecydowana większość (13) pokazuje, że liczba zakażeń wzrasta, wszystkie prognozują też coraz większą liczbę zgonów z powodu COVID-19. 
+Z trzech polskich modeli - ICM-agentModel, MIMUW-StochSEIR, MOCOS-agent1 - tylko ten ostatni przewiduje spowolnienie epidemii i spadek liczby zakażeń w najbliższym tygodniu.
+
+Standaryzowane prognozy są wstępem do kolejnych badań.   
+
+Demokratyczna Republika Konga boryka się z drugą największą na świecie epidemią wirusa Ebola, w której zginęło ponad 1800 osób.
+Czytaj także:
+Następna zaraza spadnie ze ściętych drzew. Co spędza sen z powiek epidemiologom?
+- Naszym celem jest stworzenie statystycznego narzędzia do porównywania różnych odpowiedzi na pandemię - mówi nam Paolo Giudici, profesor statystyki z Uniwersytetu w Pawii. - Analizujemy liczbę zakażeń w wielu europejskich krajach i na podstawie aktualnej liczby zakażeń stawiamy prognozę, jak będzie jutro, za tydzień, za miesiąc. Bierzemy przy tym pod uwagę ograniczenia wprowadzane w różnych krajach. To może nam powiedzieć, na ile efektywne są różne strategie tłumienia epidemii.
+
+Opracowany na Uniwersytecie w Pawii matematyczny model (UNIPV-BayesINGARCHX) bada m.in. wpływ rządowych interwencji na ograniczenie zakażeń.
+
+- Na razie nasz model sprawdził się najlepiej ze wszystkich prognoz dla Włoch, całkiem nieźle też przewidział rozwój sytuacji w Niemczech, Francji i Hiszpanii - chwali się Paolo Giudici.
+
+We Włoszech i Hiszpanii epidemia nieco odpuszcza, na co - zdaniem naukowca - największy wpływ ma pogoda, bo na południu Europy już w pełni jest wiosna. Dużo gorsza sytuacja epidemiczna panuje we Francji, liczba zakażeń mocno wzrasta także w Niemczech.
+
+Jak najlepiej tłumić epidemię
+W pierwszej fali pandemii wiosną ub. roku wszystkie kraje zachowały się podobnie - wprowadziły twardy i brutalny lockdown. Teraz mamy konglomerat mieszanych strategii: każdy kraj prowadzi swoją politykę, ograniczenia są bardziej i mniej restrykcyjne, dotyczą też różnych dziedzin gospodarki. Trudno wyrokować, która z decyzji ma największy wpływ na rozwój epidemii.
+
+- Stosunkowo łatwo ocenić, jak dany kraj sobie dobrze radzi z tłumieniem epidemii, ale trudniej ustalić, które z ograniczeń dało najlepszy efekt - uważa prof. Giudici. Zdaniem naukowca Europa potrzebuje dobrego narzędzia badawczego, które pozwoli przewidywać, jak poszczególne restrykcje - np. zamykanie szkół, biur, galerii handlowych czy ograniczenia w poruszaniu się  - wpływają na liczbę zakażeń i zgonów, a przy okazji także na stan gospodarki.
+
+Co ciekawe, prof. Giudici jest przekonany, że jednym z parametrów okaże się kultura i regionalne zróżnicowanie. Podobne restrykcje w różnych krajach mogą przynosić odmienne skutki. 
+- Nie było tego w pierwszej fali zakażeń. Wtedy w zasadzie Europejczycy wszędzie jednakowo poddawali się restrykcjom, choć były bardzo ostre - wspomina uczony. - Teraz obserwujemy, że ludzie różnie reagują na ograniczenia. W niektórych krajach respekt dla prawa jest wyższy, ale w innych obywatele nie mają do władzy zaufania, więc jej nie słuchają i nie poddają się regulacjom.
+
+Redakcja 'Gazety Wyborczej'
+Czytaj także:
+"Gazeta Wyborcza" jako jedyne medium współpracuje z siecią europejskich uczelni w unijnym projekcie Periscope
+Pandemia COVID-19 pokazała, że granica pomiędzy państwami radzącymi sobie z kryzysem a tymi, które oblały test, nie jest wyznaczona zamożnością kraju ani nawet stanem opieki zdrowotnej. Niektóre państwa, jak np. Tajwan, Wietnam czy Nowa Zelandia, były w stanie niemal do zera stłumić falę zakażeń. Były takie, które wprawdzie nie ustrzegły się od nawrotów epidemii, jak Korea Południowa i Finlandia, ale zakażenia utrzymywały na dość niskim poziomie, który nie przeciążał systemu opieki zdrowotnej. Nie zawsze też bardzo ostre ograniczenia zadziałały, np. w Peru mimo twardego lockdownu krzywa zakażeń wybuchła.
+
+W jaki sposób zakodować w matematycznych modelach strategie różnych państw, aby można było potem w sposób obiektywny ocenić i porównać ich wpływ na przebieg epidemii - liczbę zakażeń, zgonów, a także skutki gospodarcze? To wciąż nierozwiązany problem. 
+
+Zajmie się tym jeden z projektów badawczych o nazwie CoronaNet, do którego przystąpiło konsorcjum Periscope, złożone z 32 uniwersytetów i instytutów badawczych z Europy, m.in. London School of Economics, Karolinska Institutet, Uniwersytet w Gandawie, Politechnika w Delft czy Uniwersytet w Pawii.

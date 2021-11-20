@@ -1,0 +1,18 @@
+﻿
+
+Wczytaj z konosli ściezkę do pliku 
+np:
+
+c:\dane\plik.txt
+
+
+bastoebue wczytaj z konosoli jeden wyraz 
+
+np:
+
+COVID-19
+
+następnie program wypisuje ile razy  podany wyraz znajduje się w pliku 
+
+
+
