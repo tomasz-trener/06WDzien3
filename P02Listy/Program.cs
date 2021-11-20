@@ -31,6 +31,13 @@ namespace P02Listy
             listaStringow.Insert(0, "ola");
             listaStringow.Insert(2, "tomasz");
 
+            for (int i = 0; i < listaStringow.Count; i++)
+            {
+                Console.WriteLine(listaStringow[i]);
+            }
+
+            Console.ReadKey();
+
 
         }
     }

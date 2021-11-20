@@ -1,0 +1,34 @@
+﻿
+
+Napisz program, który wczytuje
+imiona z konsoli.
+
+każde imie zaakceptowane jest
+klaiwszem enter. 
+
+gdy napiszesz "koniec"
+program przestaje
+wczytywac imiona:
+
+przykład:
+
+Jan
+Adam
+Ala
+Lukasz
+koniec
+
+
+efektem jest 
+lista 4 elementowa 
+
+II cześć zadania
+
+wypisz wszystkie elementy
+wraz z długością imion
+
+Jan (3)
+Adam (4)
+Ala (3)
+Lukasz (6)
+
