@@ -1,0 +1,8 @@
+﻿
+
+Wczytaj plik zawodnicy.txt
+wczytaj w konsoli nazwe kraju np: pol 
+
+wygeneruj nowy plik z imionami i nazwiskami zawodników z danego kraju
+
+nazwa pliku to w naszym przypadku pol.txt 
