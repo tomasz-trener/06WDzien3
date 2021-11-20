@@ -23,7 +23,7 @@ namespace P01Tablice
 
             tabStringow[0] = "Adam";
             tabStringow[1] = imie2;
-
+             
 
             Console.WriteLine(tabStringow[0]);
             Console.WriteLine(tabStringow[1]);
