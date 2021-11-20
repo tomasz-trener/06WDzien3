@@ -1,0 +1,13 @@
+﻿
+
+prosze o podanie w konsoli w jednej linii równania matmatycznego np:
+
+3+6  lub 3    +     6  lub   13*257   lub 100   -10
+
+
+podaj wynik końcowy 
+
+ograniczenia i wymagania:
+-działa dla dowolnej liczby cyfr
+- działa tylko dla jednej operacji na raz .   + - * / 
+
