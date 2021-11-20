@@ -24,12 +24,22 @@ namespace P07ZadaniePliki
 
             string[] tablica= dane.Split(' ');
 
-            int licznik = 0;
+            List<string> znalezioneNapisy = new List<string>();
+
             for (int i = 0; i < tablica.Length; i++)
                 if (tablica[i].Contains(wyraz)) //(tablica[i] == wyraz)
-                    licznik++;
+                    znalezioneNapisy.Add(tablica[i]);
 
-            Console.WriteLine(string.Format("Napis {0} występuje {1} razy",wyraz,licznik));
+
+            Console.WriteLine(string.Format("Napis {0} występuje {1} razy",wyraz, znalezioneNapisy.Count));
+
+            Console.WriteLine("Znalezione wyrazy:");
+            for (int i = 0; i < znalezioneNapisy.Count; i++)
+            {
+                Console.WriteLine(znalezioneNapisy[i]);
+            }
+
+
             Console.ReadKey();
 
 
