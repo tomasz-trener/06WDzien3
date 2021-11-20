@@ -29,7 +29,9 @@ namespace P03ZadanieListy
 
             for (int i = 0; i < imiona.Count; i++)
             {
-                string wynik = imiona[i] + " (" + imiona[i].Length + ")";
+                // string wynik = "imie:" + imiona[i] + " (" + imiona[i].Length + ")";
+                string wynik = string.Format("imie: {0} ({1})", imiona[i], imiona[i].Length);
+               // string wynik = $"imie: {imiona[i]} ({imiona[i].Length})";
                 Console.WriteLine(wynik);
             }
 
