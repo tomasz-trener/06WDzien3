@@ -32,6 +32,15 @@ namespace P04OperacjeNaTablicachIListach
 
             List<string> innyPrzyklad = tablica.ToList();
 
+            // skoro listy są generalnie lepsze (tzn mają więcej korzyści) niż tablice 
+
+            // to po co w goóle korzystać z tablic : 
+
+            // są 2 sytacje :
+            //1) gdy zależy nam na szybkości przetwerzania danych  (tablice są szybsze) 
+            //2) logika buznesowa tzn gdy zależy nam aby inny programista , który będzie korzystać na naszego kodu aby 
+               // nie zmieniał zjakiś powodów rozmiaru naszych danych to możemy stosować tablice  
+
 
         }
     }
