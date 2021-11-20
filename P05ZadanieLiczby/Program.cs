@@ -21,7 +21,9 @@ namespace P05ZadanieLiczby
             string[] tab3 = rownanie.Split('*');
             string[] tab4 = rownanie.Split('/');
 
-            if(tab1.Length==2)
+
+
+            if(tab1.Length == 2)
                 Console.WriteLine(Convert.ToInt32(tab1[0]) + Convert.ToInt32(tab1[1]));
 
             if (tab2.Length == 2)
@@ -32,6 +34,19 @@ namespace P05ZadanieLiczby
 
             if (tab4.Length == 2)
                 Console.WriteLine(Convert.ToInt32(tab4[0]) / Convert.ToInt32(tab4[1]));
+
+
+            //if (rownanie.Contains("+"))
+            //{
+
+            //}
+            //if (rownanie.Contains("-"))
+            //{
+
+            //}
+
+
+
 
             Console.ReadKey();
         }

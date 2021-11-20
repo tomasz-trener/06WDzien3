@@ -11,3 +11,8 @@ ograniczenia i wymagania:
 -działa dla dowolnej liczby cyfr
 - działa tylko dla jednej operacji na raz .   + - * / 
 
+
+//string[] tab1=  rownanie.Split('-');
+3+6
+
+tab1.length  =2
