@@ -1,0 +1,7 @@
+﻿
+program pozwala wczytanie z konsoli dowolnego miasta np warszawa
+i zwraca informajce jaka jest aktuanie temperatura w danym miescie
+po wygenerowaniu wyniku program ponownie pyta o miasto i uzytkownik moze kolejny raz wproawdzic nową nazwe miasta 
+
+
+

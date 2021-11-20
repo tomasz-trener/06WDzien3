@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09SposobyTworzeniaTablicIL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10WebClient", "P10WebClient\P10WebClient.csproj", "{947038F0-D6F3-4801-AE84-9CA21767BC0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11WebClientPogoda", "P11WebClientPogoda\P11WebClientPogoda.csproj", "{56BC7937-023E-47E1-8D48-CCDD8E472732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12ZadaniePogoda", "P12ZadaniePogoda\P12ZadaniePogoda.csproj", "{F55E417A-F020-47FB-9C26-840FFA5DCF9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{947038F0-D6F3-4801-AE84-9CA21767BC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{947038F0-D6F3-4801-AE84-9CA21767BC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{947038F0-D6F3-4801-AE84-9CA21767BC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BC7937-023E-47E1-8D48-CCDD8E472732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BC7937-023E-47E1-8D48-CCDD8E472732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BC7937-023E-47E1-8D48-CCDD8E472732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BC7937-023E-47E1-8D48-CCDD8E472732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55E417A-F020-47FB-9C26-840FFA5DCF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55E417A-F020-47FB-9C26-840FFA5DCF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55E417A-F020-47FB-9C26-840FFA5DCF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55E417A-F020-47FB-9C26-840FFA5DCF9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
