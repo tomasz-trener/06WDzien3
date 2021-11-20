@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -16,6 +17,10 @@ namespace P10WebClient
             // sieci web
 
             string sciezka = "http://tomaszles.pl/wp-content/uploads/2019/06/zawodnicy.txt";
+
+            string dane =  new WebClient().DownloadString(sciezka);
+
+
         }
     }
 }
