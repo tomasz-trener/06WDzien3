@@ -6,7 +6,7 @@ np:
 c:\dane\plik.txt
 
 
-bastoebue wczytaj z konosoli jeden wyraz 
+nastepnie wczytaj z konosoli jeden wyraz 
 
 np:
 
