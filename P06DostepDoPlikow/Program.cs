@@ -17,7 +17,7 @@ namespace P06DostepDoPlikow
 
            // Console.WriteLine("c:\\nane\\napis.txt");
 
-            string napis=  File.ReadAllText(@"c:\dane\napis.txt");
+            string napis= File.ReadAllText(@"c:\dane\napis.txt");
 
             Console.WriteLine(napis);
 
