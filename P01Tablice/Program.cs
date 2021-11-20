@@ -42,7 +42,7 @@ namespace P01Tablice
             // 1) gdy nie chcamy aby po uruchomieniu programu ktoś wprost okreslał długośc tablicy 
             // 2) gdy w trakcie działania programu chcemy zmienić długość zbioru danych 
 
-            // rozwiązanie tych probemów to listy 
+            // rozwiązanie tych probemów to listy .
 
 
             Console.ReadKey();
